@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"",lang:"en-US",frontmatter:{home:!0,heroImage:"/img/icon_monkey_blue.png",actionText:"\u733F\u54E5\u6307\u5357",actionLink:"/zh/guide/",features:[{title:null,details:null}],footer:"\u9655ICP\u5907202101541\u53F7-1"},excerpt:"",headers:[],git:{},filePathRelative:"README.md"};export{e as data};
